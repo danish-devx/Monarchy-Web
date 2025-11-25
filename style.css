@@ -1,0 +1,279 @@
+body{
+  font-family: "Jost", sans-serif;
+}
+.navbar {
+  background-color: #f5ecdb;
+
+}
+
+.navbar-brand{
+    padding-left: 7%;
+      color: #f26200;
+    font-family: "Jost", sans-serif;
+}
+
+.collapse{
+    padding-left: 35%;
+    
+}
+
+.head{
+    height: 87vh;
+    background-color: #f5ecdb;
+}
+
+.heading{
+      color: #f26200;
+    font-family: "Jost", sans-serif;
+    font-size: 3.9rem;
+    padding-bottom: 1%;
+}
+
+.icon i{
+   
+    border: 1px solid #f26200;
+    border-radius: 50px;
+    font-size: 21px;
+    padding: 24px 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f26200;
+    color: white;
+    cursor: pointer;
+}
+
+.i{
+  font-size: 4vw;
+  color: #f26200;
+  padding-bottom: 10%;
+}
+
+.back1{
+  background-image: url(images/work_1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+ transition: transform 0.5s ease;
+}
+
+.back1:hover{
+  transform: scale(1.1);
+}
+
+.back2{
+  background-image: url(images/work_2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+  transition: transform 0.5s ease;
+}
+
+.back2:hover{
+  transform: scale(1.1);
+}
+
+
+.back3{
+  background-image: url(images/work_3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+  transition: transform 0.5s ease;
+}
+
+.back3:hover{
+  transform: scale(1.1);
+}
+
+.back4{
+  background-image: url(images/work_4.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+  transition: transform 0.5s ease;
+}
+
+.back4:hover{
+  transform: scale(1.1);
+}
+
+.back5{
+  background-image: url(images/work_5.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+  transition: transform 0.5s ease;
+}
+
+.back5:hover{
+  transform: scale(1.1);
+}
+
+.back6{
+  background-image: url(images/work_1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+  transition: transform 0.5s ease;
+}
+
+.back6:hover{
+  transform: scale(1.1);
+}
+
+.imgdiv{
+  border: 1px solid red;
+  border: none;
+  width: 30%;
+  height: 11vh;
+  border-radius: 50%;
+  background-image: url(images/person_1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imgdiv2{
+  border: 1px solid red;
+  border: none;
+  width: 30%;
+  height: 11vh;
+  border-radius: 50%;
+  background-image: url(images/person_2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imgdiv3{
+  border: 1px solid red;
+  border: none;
+  width: 30%;
+  height: 11vh;
+  border-radius: 50%;
+  background-image: url(images/person_3.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imgdiv4{
+  border: 1px solid red;
+  border: none;
+  width: 30%;
+  height: 11vh;
+  border-radius: 50%;
+  background-image: url(images/person_4.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.person{
+  color: #f26200;
+}
+
+.ac{
+  background-color: #f5ecdb;
+  height: 52vh;
+}
+
+
+.color{
+  background-color: #f5ecdb;
+}
+
+
+.socialicon{
+  height: 45vh;
+  background-color: #f8f9fa
+}
+
+footer{
+  background-color: #f5ecdb;
+}
+
+.foot{
+  padding-top: 9%;
+  padding-left: 9%;
+}
+
+.name{
+     color: #f26200;
+    font-family: "Jost", sans-serif;
+        
+}
+
+.para{
+   color: rgba(0, 0, 0, 0.5);
+   font-size: 1rem;
+    font-family: "Jost", sans-serif;
+    line-height: 29px;
+}
+
+.para2{
+   color: rgba(0, 0, 0, 0.5);
+    font-family: "Jost", sans-serif;
+      font-size: 0.9rem;
+}
+
+.para:hover{
+  color: black;
+}
+
+.iconss{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+  margin-top: 13%;
+}
+
+footer i{
+  color: #f26200;
+  
+}
+
+footer i:hover{
+  color: black;
+}
+
+
+
+.copy{
+  color:rgba(0, 0, 0, 0.5) ;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 4%;
+  
+  
+}
+
+.copy a{
+     padding: 12px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: cursive;
+  border-radius: 7px;
+  border: 1px solid #f26200;
+  background-color: #f26200;
+   box-shadow:  3px 9px 8px black ;
+}
+
+@media (max-width:590px) {
+    .copy a{
+      line-height: 60px;
+    }
+}
+.copy i{
+    font-size: 22px;
+}
+
