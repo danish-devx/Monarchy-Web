@@ -12,6 +12,26 @@ body{
     font-family: "Jost", sans-serif;
 }
 
+
+
+@media (max-width:989px){
+  .collapse{
+    padding-left: 0% !important;
+    
+}
+
+}
+
+
+
+@media (max-width:430px){
+  .socialicon{
+        padding-top: 40% !important;
+        padding-bottom: 40% !important;
+  }
+
+}
+
 .collapse{
     padding-left: 35%;
     
@@ -192,7 +212,7 @@ body{
 
 
 .socialicon{
-  height: 45vh;
+  height: 50vh;
   background-color: #f8f9fa
 }
 
@@ -276,4 +296,5 @@ footer i:hover{
 .copy i{
     font-size: 22px;
 }
+
 
